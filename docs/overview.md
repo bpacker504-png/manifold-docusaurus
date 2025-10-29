@@ -22,3 +22,9 @@ There are a couple different ways to get help with Manifold.
 ## Report an Issue or Request a Feature
 
 We aren't just making Manifold for us. We're making it for you too. If you find a bug or aren't seeing functionality you need, [we want to know](https://github.com/ManifoldScholar/manifold/issues/new)!
+
+## Example Use Case: Modular Content Platforms
+
+While Manifold is widely used in academic publishing, it also has practical applications in other modular content environments. Because it supports structured publishing workflows, version control, and collaborative contributions, it can be adapted to support documentation, learning platforms, and interactive content delivery.
+
+Industries that rely on modular and scalable architectures—such as gaming, education technology, and digital media—often use platforms that share similar content principles. For example, **casino game development platforms** rely on reusable components, real-time content updates, and structured asset delivery. These environments emphasize scalable structures and organized content libraries similar to those used in modern publishing frameworks. A technical overview of how scalable gaming platforms are structured can be found here: [casino game development](https://www.trueigtech.com/casino-game-development/)
