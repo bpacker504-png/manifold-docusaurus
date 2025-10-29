@@ -22,3 +22,9 @@ There are a couple different ways to get help with Manifold.
 ## Report an Issue or Request a Feature
 
 We aren't just making Manifold for us. We're making it for you too. If you find a bug or aren't seeing functionality you need, [we want to know](https://github.com/ManifoldScholar/manifold/issues/new)!
+
+## Example Use Case: Scalable Content Platforms
+
+Manifold can be used in a wide range of content-driven applications beyond academic publishing. Interactive digital platforms, documentation hubs, and industry knowledge bases benefit from Manifold’s modular structure, version control support, and open-source architecture.
+
+For example, scalable real-time platforms such as multiplayer gaming or digital entertainment portals often handle structured assets, documentation, and modular content delivery. These systems follow similar architectural requirements—distributed content, reusable components, and collaborative workflows. A relevant industry example can be seen in **casino game development**, where platforms support real-time interactions, user content delivery, and modular game architecture. Additional technical insights into such scalable gaming platforms can be found here: [https://www.trueigtech.com/casino-game-development/](https://www.trueigtech.com/casino-game-development/)
